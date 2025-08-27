@@ -2,32 +2,21 @@
   "research_list": [
     {
       "name": "Unity Technologies",
-      "market_position": "Unity is currently experiencing a mixed market position. Despite a growing interest in AR/VR and metaverse spaces, "
-                        "its revenue growth is projected to lag behind the broader market at only 0.7% per annum. However, new launches "
-                        "like Vector may potentially increase revenue through a 20% CAGR.",
-      "future_outlook": "While there is potential for growth, analysts have mixed sentiments: 14 recommend a buy, 12 a hold, and 2 a "
-                        "sell for Unity stock. The market forecasts a gradual improvement in growth by 2025.",
-      "investment_potential": "Unity's investment potential relies heavily on its new product success and growth in the AR/VR technology "
-                             "sector. The company needs to overcome revenue challenges to meet higher growth expectations."
+      "market_position": "Unity is currently experiencing a mixed market position. Despite a growing interest in AR/VR and metaverse spaces, its revenue growth is projected to lag behind the broader market at only 0.7% per annum. However, new launches like Vector may potentially increase revenue through a 20% CAGR.",
+      "future_outlook": "While there is potential for growth, analysts have mixed sentiments: 14 recommend a buy, 12 a hold, and 2 a sell for Unity stock. The market forecasts a gradual improvement in growth by 2025.",
+      "investment_potential": "Unity's investment potential relies heavily on its new product success and growth in the AR/VR technology sector. The company needs to overcome revenue challenges to meet higher growth expectations."
     },
     {
       "name": "Snowflake Inc.",
-      "market_position": "Snowflake has shown strong market performance, with its stock almost doubling from its lows, indicating "
-                        "significant investor confidence. Its addressable market is estimated to expand substantially, with a focus on "
-                        "AI and cloud solutions.",
-      "future_outlook": "The future outlook for Snowflake is positive, with predictions of the stock price increasing by over 90% by 2030. "
-                        "As enterprise spending on software is expected to rise, Snowflake is well-positioned to capture market share.",
-      "investment_potential": "Snowflake holds significant investment potential due to its leadership in cloud data warehousing and "
-                             "broader expansion into AI and analytics, with projected stock growth and a favorable market environment."
+      "market_position": "Snowflake has shown strong market performance, with its stock almost doubling from its lows, indicating significant investor confidence. Its addressable market is estimated to expand substantially, with a focus on AI and cloud solutions.",
+      "future_outlook": "The future outlook for Snowflake is positive, with predictions of the stock price increasing by over 90% by 2030. As enterprise spending on software is expected to rise, Snowflake is well-positioned to capture market share.",
+      "investment_potential": "Snowflake holds significant investment potential due to its leadership in cloud data warehousing and broader expansion into AI and analytics, with projected stock growth and a favorable market environment."
     },
     {
       "name": "Palantir Technologies",
-      "market_position": "Palantir maintains a strong market position as a key player in AI and data analytics, evidenced by a "
-                        "substantial increase in its stock price by over 1300% in recent years.",
-      "future_outlook": "Palantir's future appears promising with expectations of consistent growth in AI software markets. However, "
-                        "analysts estimate an aggressive annual revenue growth rate, suggesting a need for tempered expectations.",
-      "investment_potential": "Palantir's investment potential is significant, especially for those interested in long-term growth driven "
-                             "by AI. Yet, potential investors should note possible risks associated with volatile market perceptions."
+      "market_position": "Palantir maintains a strong market position as a key player in AI and data analytics, evidenced by a substantial increase in its stock price by over 1300% in recent years.",
+      "future_outlook": "Palantir's future appears promising with expectations of consistent growth in AI software markets. However, analysts estimate an aggressive annual revenue growth rate, suggesting a need for tempered expectations.",
+      "investment_potential": "Palantir's investment potential is significant, especially for those interested in long-term growth driven by AI. Yet, potential investors should note possible risks associated with volatile market perceptions."
     }
   ]
 }
